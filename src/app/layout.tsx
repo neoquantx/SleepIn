@@ -6,7 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Morning Digest · your group chats, read for you",
+  title: "SleepIn · your group chats, read for you",
   description:
     "Drop in WhatsApp or Telegram exports. A local open-weight model reads them overnight and hands you a two-line morning digest. Nothing leaves your machine.",
 };

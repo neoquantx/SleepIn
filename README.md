@@ -1,121 +1,79 @@
-# Group Chat Morning Digest 🦥
+# SleepIn
 
-> Point it at last night's WhatsApp or Telegram export. A local open-weight model reads the hundreds of messages you slept through and hands you two lines:
->
-> **"Rahul's birthday moved to Saturday, mom wants you to call, nothing else matters."**
+I'm in a family group, a friends group and a society group, and every morning there are a few hundred unread messages waiting. Usually only two of them matter. So I made SleepIn: you give it last night's WhatsApp or Telegram export, a small open-weight model running on your own laptop reads everything, and you get something like:
 
-![Morning digest generated locally by llama3.2 from 520 sample messages](docs/digest.png)
+> Rahul's birthday moved to Saturday, mom wants you to call, nothing else matters.
 
-Built for the **Hacktoberfest Open-Source AI Challenge, Week 3: _Slow and Steady_** (International Sloth Day). The AI does the overnight catch-up, so the human gets to stay lazy.
+![SleepIn digest for the sample chats](docs/digest.png)
 
-- **Lazy payoff:** never scroll 500 messages again.
-- **Why open:** your private chats stay 100% on your machine. Parsing happens in the browser, and summarising happens in a local Ollama model on `localhost`. There are no cloud APIs, no accounts, and no analytics. Next.js telemetry is disabled in the npm scripts, and fonts are bundled locally.
+Everything runs on your machine. The chat file is parsed in the browser and the summary comes from Ollama on localhost. No cloud API, no login, no analytics (Next.js telemetry is switched off in the npm scripts too). That was the whole point. I'm not uploading my mom's messages anywhere.
 
-## What it does
+Made for Week 3 of the Hacktoberfest Open-Source AI Challenge, "Slow and Steady" (International Sloth Day). The model does the catching up overnight, you stay in bed.
 
-1. **Drop or paste** one or more chat exports: WhatsApp `.txt` (Android and iOS formats) or Telegram `result.json` (single chat or full account export).
-2. **Pick a window:** _Overnight_ (12h), _24 hours_, or _Everything_. The window is measured back from the newest message in your exports.
-3. **Optionally tell it your name** as it appears in the chats, so "Dev??" from Mom counts as being about _you_.
-4. **Brew.** A local model reads each chat in turn (slowly and steadily, with live progress), then you get:
-   - a **2–3 line morning digest**, and
-   - an optional **What matters / What can wait** breakdown, tagged by chat.
+## Running it
 
-### How the summarising works
-
-Small local models (3B) get confused by 500 interleaved messages, so the pipeline is deliberately slow and steady:
-
-- **One model call per chat**, using Ollama's structured outputs (a JSON schema). Each call returns a short `headline`, an `importance` score from 0 to 3, the items that `matters`, and the items that `can_wait`. Because the code tags each item with its chat, items are never attributed to the wrong chat.
-- **Guardrails for small models:**
-  - two few-shot examples (a plan change, and a noisy housing-society chat where nothing matters);
-  - a grounding check that drops items naming people or places that aren't in that chat;
-  - an evidence gate: a chat can only reach the headline if it mentions you or contains plan-change or request language;
-  - a `num_predict` cap, plus one retry per chat.
-- The final sentence is assembled from the ranked headlines as `X, Y, nothing else matters.`
-
-### Demo mode
-
-If Ollama isn't running, or has no model pulled, the app still works:
-
-- The **bundled sample chats** get a hand-written digest, so the demo reads like the real thing.
-- **Your own chats** get a simple keyword-scored digest that looks for plan changes, requests, mentions of your name, dates, and money.
-- The UI clearly labels this as **demo mode**, and you can also switch to it manually.
-
-## Run it
-
-### 1. Install Ollama and pull a model
+You need Node 20+ and [Ollama](https://ollama.com).
 
 ```bash
-# macOS (or download from https://ollama.com)
-brew install ollama
-brew services start ollama        # or: ollama serve
-
-ollama pull llama3.2              # 2 GB, default; qwen2.5 / qwen3 / gemma3 also work
+brew install ollama            # or grab the installer from ollama.com
+brew services start ollama     # or just run: ollama serve
+ollama pull llama3.2           # ~2 GB
 ```
 
-The app auto-detects installed models. It prefers `llama3.2`, then `qwen3`, `qwen2.5`, `gemma3`, and so on, and lets you pick from a dropdown when several are installed.
-
-Optional environment variables (put them in `.env.local`):
-
-| Variable       | Default                  | Purpose                      |
-| -------------- | ------------------------ | ---------------------------- |
-| `OLLAMA_HOST`  | `http://127.0.0.1:11434` | Where Ollama is listening    |
-| `OLLAMA_MODEL` | `llama3.2`               | Preferred model family / tag |
-
-### 2. Run the app
+Then the app:
 
 ```bash
 npm install
 npm run dev
-# open http://localhost:3000
 ```
 
-Click **Use sample chats**, then **Brew my digest**. With `llama3.2` on an Apple-silicon laptop, the three samples (about 520 messages) take roughly 45–90 seconds. Slow and steady.
+Open http://localhost:3000, click "Use sample chats" and then "Brew my digest". On my M-series MacBook, llama3.2 takes about a minute to a minute and a half for the ~520 sample messages. It's slow, that's kind of the theme.
 
-Other scripts: `npm run build`, `npm run lint`, `npm run typecheck`, and `npm run samples` (regenerates the sample exports deterministically).
+Other models work too (qwen2.5, qwen3, gemma3...). The app picks up whatever you've pulled and shows a dropdown if you have more than one. If Ollama is on a different port or you want a different default, set these in `.env.local`:
+
+```
+OLLAMA_HOST=http://127.0.0.1:11434
+OLLAMA_MODEL=llama3.2
+```
+
+### No Ollama?
+
+It still works, just in demo mode (the pill at the top tells you). The sample chats get a pre-written digest so you can see what it's supposed to look like, and your own chats get a basic keyword-based summary. Install Ollama for the real thing.
 
 ## Exporting your chats
 
-### WhatsApp (`.txt`)
+**WhatsApp on iPhone:** open the chat, tap the group name at the top, scroll down to Export Chat, choose Without Media. You'll get a zip, unzip it and use the `_chat.txt` inside.
 
-- **iPhone:** open the chat → tap the group/contact name → **Export Chat** → **Without Media** → save to Files or AirDrop it to your computer. If you get a `.zip`, unzip it and use the `_chat.txt` inside.
-- **Android:** open the chat → **⋮** → **More** → **Export chat** → **Without media** → save or share the `.txt` to your computer.
+**WhatsApp on Android:** open the chat, tap the three dots, More, Export chat, Without media. Send the `.txt` to your computer.
 
-Both the Android (`19/10/2026, 23:41 - Name: …`) and iOS (`[19/10/26, 11:41:07 PM] Name: …`) formats are supported, including 12/24h times, DD/MM vs MM/DD (auto-detected), multi-line messages, media placeholders, and system notices.
+**Telegram:** this only works from Telegram Desktop, not the phone app. Open the chat, three dots, Export chat history, untick photos/videos, set the format to "Machine-readable JSON" and export. Use the `result.json`. A full account export (Settings, Advanced, Export Telegram data) also works and gets split into separate chats.
 
-### Telegram (`result.json`)
+You can drop several files at once, or paste the text straight into the Paste tab.
 
-Chat export is available in **Telegram Desktop**, not in the mobile apps:
+## How it works
 
-- **One chat:** open the chat → **⋮** → **Export chat history** → untick photos/videos/files → **Format: Machine-readable JSON** → **Export**. Use the `result.json` it creates.
-- **Everything:** **Settings → Advanced → Export Telegram data** → tick the chats you want → **Machine-readable JSON**. The app splits the export into separate chats automatically.
+The first version sent all the chats to the model in one go. llama3.2 is a 3B model and it got confused: it mixed up which chat said what and quoted random memes as important. So now it goes one chat at a time and asks for a short headline, an importance score from 0 to 3, and lists of things that matter and things that can wait (as JSON, using Ollama's structured outputs). A few checks in code keep it honest:
+
+- anything that names a person or place not actually in that chat gets dropped, since small models love making stuff up
+- a chat only makes the headline if it mentions you or has something like a plan change or a request in it
+- the final line is just the top headlines joined together, ending with "nothing else matters"
+
+"Overnight" means the last 12 hours before the newest message in your export, not the current time, because exports are snapshots.
 
 ## Sample chats
 
-The demo exports live in [`public/samples/`](public/samples). They are generated by [`scripts/generate-samples.mjs`](scripts/generate-samples.mjs) and contain 524 messages in total:
+The demo files are in `public/samples/`. They're generated by `scripts/generate-samples.mjs` (`npm run samples`), seeded so you get the same files every time:
 
-| File                                    | Format              | What's buried in the noise                                   |
-| --------------------------------------- | ------------------- | ------------------------------------------------------------ |
-| `WhatsApp Chat - Rahul Bday Squad.txt`  | WhatsApp, iOS       | Rahul's birthday moved from Friday to Saturday, 8pm at Toit  |
-| `WhatsApp Chat with Sharma Family.txt`  | WhatsApp, Android   | Mom wants you (Dev) to call before 11 about Nani's visit     |
-| `telegram-lakeside-residents.json`      | Telegram JSON       | Nothing urgent: parking fights, a lost cat, a water notice   |
+- **Rahul Bday Squad** (WhatsApp, iPhone format): about 200 messages arguing Toit vs Arbor, plus the one where the birthday moves to Saturday
+- **Sharma Family** (WhatsApp, Android format): good-morning forwards, Chachaji's lemon-water science, and Mom asking you to call
+- **Lakeside Residents** (Telegram JSON): parking fights and a lost cat. Nothing you need.
 
-## Project layout
+The user in these chats is "Dev", so type that in the name box if you want it to know who "you" is.
 
-```
-src/
-  app/
-    page.tsx                  # renders <MorningDigest />
-    api/status/route.ts       # is Ollama up? which models?
-    api/digest/route.ts       # per-chat model calls → NDJSON progress stream → digest
-  components/digest/          # intake (upload/paste/samples), digest view, status pill
-  components/ui/              # shadcn/ui
-  lib/parsers/                # WhatsApp + Telegram parsers, catch-up window
-  lib/digest/prompt.ts        # transcripts, prompts, few-shot, grounding, digest composer
-  lib/digest/demo.ts          # demo-mode digests
-  lib/ollama.ts               # tiny Ollama client (structured outputs)
-scripts/generate-samples.mjs  # deterministic sample exports
-```
+## Built with
 
-## Stack
+Next.js 16, TypeScript, Tailwind v4, shadcn/ui and Ollama.
 
-Next.js 16 (App Router, Route Handlers) · TypeScript · Tailwind CSS v4 · shadcn/ui (Radix) · Ollama (`llama3.2` by default; any open-weight chat model works).
+## License
+
+MIT, see [LICENSE](LICENSE).
