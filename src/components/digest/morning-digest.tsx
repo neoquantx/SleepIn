@@ -180,7 +180,7 @@ export function MorningDigest() {
             <span className="grid size-7 place-items-center rounded-full bg-sun/60 text-sun-foreground">
               <Coffee className="size-3.5" />
             </span>
-            Morning Digest
+            SleepIn
           </span>
           <StatusPill status={status} demo={demoChoice} />
         </div>
