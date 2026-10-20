@@ -1,0 +1,2520 @@
+{
+ "name": "Prestige Lakeside Residents",
+ "type": "private_supergroup",
+ "id": 1789234567,
+ "messages": [
+  {
+   "id": 4100,
+   "type": "service",
+   "date": "2026-10-19T19:40:00",
+   "date_unixtime": "1792419000",
+   "actor": "Secretary – Lakeside",
+   "actor_id": "user1001",
+   "action": "pin_message",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4101,
+   "type": "message",
+   "date": "2026-10-19T19:47:42",
+   "date_unixtime": "1792419462",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Lost & found: blue umbrella near the gym",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lost & found: blue umbrella near the gym"
+    }
+   ]
+  },
+  {
+   "id": 4102,
+   "type": "message",
+   "date": "2026-10-19T19:47:46",
+   "date_unixtime": "1792419466",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4103,
+   "type": "message",
+   "date": "2026-10-19T19:51:51",
+   "date_unixtime": "1792419711",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome"
+    }
+   ]
+  },
+  {
+   "id": 4104,
+   "type": "message",
+   "date": "2026-10-19T19:56:24",
+   "date_unixtime": "1792419984",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Lost & found: blue umbrella near the gym",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lost & found: blue umbrella near the gym"
+    }
+   ]
+  },
+  {
+   "id": 4105,
+   "type": "message",
+   "date": "2026-10-19T19:59:22",
+   "date_unixtime": "1792420162",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "This is the third time this week",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This is the third time this week"
+    }
+   ]
+  },
+  {
+   "id": 4106,
+   "type": "message",
+   "date": "2026-10-19T20:00:56",
+   "date_unixtime": "1792420256",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4107,
+   "type": "message",
+   "date": "2026-10-19T20:04:31",
+   "date_unixtime": "1792420471",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4108,
+   "type": "message",
+   "date": "2026-10-19T20:05:57",
+   "date_unixtime": "1792420557",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4109,
+   "type": "message",
+   "date": "2026-10-19T20:11:57",
+   "date_unixtime": "1792420917",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Agreed",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed"
+    }
+   ]
+  },
+  {
+   "id": 4110,
+   "type": "message",
+   "date": "2026-10-19T20:15:32",
+   "date_unixtime": "1792421132",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "photo": "photos/photo_9@19-10-2026.jpg",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4111,
+   "type": "message",
+   "date": "2026-10-19T20:19:10",
+   "date_unixtime": "1792421350",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome"
+    }
+   ]
+  },
+  {
+   "id": 4112,
+   "type": "message",
+   "date": "2026-10-19T20:19:19",
+   "date_unixtime": "1792421359",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4113,
+   "type": "message",
+   "date": "2026-10-19T20:22:00",
+   "date_unixtime": "1792421520",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4114,
+   "type": "message",
+   "date": "2026-10-19T20:23:33",
+   "date_unixtime": "1792421613",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4115,
+   "type": "message",
+   "date": "2026-10-19T20:27:53",
+   "date_unixtime": "1792421873",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Garbage collection at 7am tomorrow",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Garbage collection at 7am tomorrow"
+    }
+   ]
+  },
+  {
+   "id": 4116,
+   "type": "message",
+   "date": "2026-10-19T20:29:28",
+   "date_unixtime": "1792421968",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4117,
+   "type": "message",
+   "date": "2026-10-19T20:30:00",
+   "date_unixtime": "1792422000",
+   "from": "Secretary – Lakeside",
+   "from_id": "user1740",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Notice:"
+    },
+    " Water tank cleaning on Thursday, 10am–2pm. Please store water the night before."
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Notice:"
+    },
+    {
+     "type": "plain",
+     "text": " Water tank cleaning on Thursday, 10am–2pm. Please store water the night before."
+    }
+   ]
+  },
+  {
+   "id": 4118,
+   "type": "message",
+   "date": "2026-10-19T20:34:53",
+   "date_unixtime": "1792422293",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Please follow the rules, we are educated people",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please follow the rules, we are educated people"
+    }
+   ]
+  },
+  {
+   "id": 4119,
+   "type": "message",
+   "date": "2026-10-19T20:34:55",
+   "date_unixtime": "1792422295",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4120,
+   "type": "message",
+   "date": "2026-10-19T20:38:46",
+   "date_unixtime": "1792422526",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4121,
+   "type": "message",
+   "date": "2026-10-19T20:40:51",
+   "date_unixtime": "1792422651",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Can we get more lights near the park? It's very dark",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we get more lights near the park? It's very dark"
+    }
+   ]
+  },
+  {
+   "id": 4122,
+   "type": "message",
+   "date": "2026-10-19T20:41:13",
+   "date_unixtime": "1792422673",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4123,
+   "type": "message",
+   "date": "2026-10-19T20:46:33",
+   "date_unixtime": "1792422993",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4124,
+   "type": "message",
+   "date": "2026-10-19T20:48:20",
+   "date_unixtime": "1792423100",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4125,
+   "type": "message",
+   "date": "2026-10-19T20:52:25",
+   "date_unixtime": "1792423345",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4126,
+   "type": "message",
+   "date": "2026-10-19T20:53:07",
+   "date_unixtime": "1792423387",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4127,
+   "type": "message",
+   "date": "2026-10-19T20:54:01",
+   "date_unixtime": "1792423441",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4128,
+   "type": "message",
+   "date": "2026-10-19T20:56:07",
+   "date_unixtime": "1792423567",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "+1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "+1"
+    }
+   ]
+  },
+  {
+   "id": 4129,
+   "type": "message",
+   "date": "2026-10-19T20:57:37",
+   "date_unixtime": "1792423657",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4130,
+   "type": "message",
+   "date": "2026-10-19T21:04:52",
+   "date_unixtime": "1792424092",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4131,
+   "type": "message",
+   "date": "2026-10-19T21:10:00",
+   "date_unixtime": "1792424400",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Found a grey cat near B block, very friendly. Whose is it?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Found a grey cat near B block, very friendly. Whose is it?"
+    }
+   ]
+  },
+  {
+   "id": 4132,
+   "type": "message",
+   "date": "2026-10-19T21:14:56",
+   "date_unixtime": "1792424696",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Please follow the rules, we are educated people",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please follow the rules, we are educated people"
+    }
+   ]
+  },
+  {
+   "id": 4133,
+   "type": "message",
+   "date": "2026-10-19T21:19:36",
+   "date_unixtime": "1792424976",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4134,
+   "type": "message",
+   "date": "2026-10-19T21:22:04",
+   "date_unixtime": "1792425124",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4135,
+   "type": "message",
+   "date": "2026-10-19T21:23:51",
+   "date_unixtime": "1792425231",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4136,
+   "type": "message",
+   "date": "2026-10-19T21:25:10",
+   "date_unixtime": "1792425310",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome"
+    }
+   ]
+  },
+  {
+   "id": 4137,
+   "type": "message",
+   "date": "2026-10-19T21:30:32",
+   "date_unixtime": "1792425632",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4138,
+   "type": "message",
+   "date": "2026-10-19T21:31:18",
+   "date_unixtime": "1792425678",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4139,
+   "type": "message",
+   "date": "2026-10-19T21:31:41",
+   "date_unixtime": "1792425701",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4140,
+   "type": "message",
+   "date": "2026-10-19T21:35:58",
+   "date_unixtime": "1792425958",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4141,
+   "type": "message",
+   "date": "2026-10-19T21:42:40",
+   "date_unixtime": "1792426360",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "photo": "photos/photo_40@19-10-2026.jpg",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4142,
+   "type": "message",
+   "date": "2026-10-19T21:42:59",
+   "date_unixtime": "1792426379",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Lost & found: blue umbrella near the gym",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lost & found: blue umbrella near the gym"
+    }
+   ]
+  },
+  {
+   "id": 4143,
+   "type": "message",
+   "date": "2026-10-19T21:46:53",
+   "date_unixtime": "1792426613",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4144,
+   "type": "message",
+   "date": "2026-10-19T21:46:53",
+   "date_unixtime": "1792426613",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4145,
+   "type": "message",
+   "date": "2026-10-19T21:48:00",
+   "date_unixtime": "1792426680",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "That's Biscuit! Ours. Coming down now, thank you 🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "That's Biscuit! Ours. Coming down now, thank you 🙏"
+    }
+   ]
+  },
+  {
+   "id": 4146,
+   "type": "message",
+   "date": "2026-10-19T21:48:00",
+   "date_unixtime": "1792426680",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Garbage collection at 7am tomorrow",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Garbage collection at 7am tomorrow"
+    }
+   ]
+  },
+  {
+   "id": 4147,
+   "type": "message",
+   "date": "2026-10-19T21:49:33",
+   "date_unixtime": "1792426773",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4148,
+   "type": "message",
+   "date": "2026-10-19T21:50:51",
+   "date_unixtime": "1792426851",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4149,
+   "type": "message",
+   "date": "2026-10-19T21:52:19",
+   "date_unixtime": "1792426939",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4150,
+   "type": "message",
+   "date": "2026-10-19T21:53:26",
+   "date_unixtime": "1792427006",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4151,
+   "type": "message",
+   "date": "2026-10-19T21:57:29",
+   "date_unixtime": "1792427249",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4152,
+   "type": "message",
+   "date": "2026-10-19T21:58:41",
+   "date_unixtime": "1792427321",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4153,
+   "type": "message",
+   "date": "2026-10-19T22:06:03",
+   "date_unixtime": "1792427763",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4154,
+   "type": "message",
+   "date": "2026-10-19T22:07:01",
+   "date_unixtime": "1792427821",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4155,
+   "type": "message",
+   "date": "2026-10-19T22:12:01",
+   "date_unixtime": "1792428121",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Can we please keep this group for important things only",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we please keep this group for important things only"
+    }
+   ]
+  },
+  {
+   "id": 4156,
+   "type": "message",
+   "date": "2026-10-19T22:12:34",
+   "date_unixtime": "1792428154",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4157,
+   "type": "message",
+   "date": "2026-10-19T22:14:00",
+   "date_unixtime": "1792428240",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4158,
+   "type": "message",
+   "date": "2026-10-19T22:15:03",
+   "date_unixtime": "1792428303",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4159,
+   "type": "message",
+   "date": "2026-10-19T22:15:28",
+   "date_unixtime": "1792428328",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "I will raise this in the AGM",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I will raise this in the AGM"
+    }
+   ]
+  },
+  {
+   "id": 4160,
+   "type": "message",
+   "date": "2026-10-19T22:24:02",
+   "date_unixtime": "1792428842",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4161,
+   "type": "message",
+   "date": "2026-10-19T22:25:41",
+   "date_unixtime": "1792428941",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "+1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "+1"
+    }
+   ]
+  },
+  {
+   "id": 4162,
+   "type": "message",
+   "date": "2026-10-19T22:30:23",
+   "date_unixtime": "1792429223",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4163,
+   "type": "message",
+   "date": "2026-10-19T22:41:31",
+   "date_unixtime": "1792429891",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4164,
+   "type": "message",
+   "date": "2026-10-19T22:44:56",
+   "date_unixtime": "1792430096",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Can we get more lights near the park? It's very dark",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we get more lights near the park? It's very dark"
+    }
+   ]
+  },
+  {
+   "id": 4165,
+   "type": "message",
+   "date": "2026-10-19T22:54:11",
+   "date_unixtime": "1792430651",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4166,
+   "type": "message",
+   "date": "2026-10-19T22:56:42",
+   "date_unixtime": "1792430802",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4167,
+   "type": "message",
+   "date": "2026-10-19T22:57:12",
+   "date_unixtime": "1792430832",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4168,
+   "type": "message",
+   "date": "2026-10-19T22:57:31",
+   "date_unixtime": "1792430851",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4169,
+   "type": "message",
+   "date": "2026-10-19T23:01:37",
+   "date_unixtime": "1792431097",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4170,
+   "type": "message",
+   "date": "2026-10-19T23:03:20",
+   "date_unixtime": "1792431200",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4171,
+   "type": "message",
+   "date": "2026-10-19T23:05:20",
+   "date_unixtime": "1792431320",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4172,
+   "type": "message",
+   "date": "2026-10-19T23:09:34",
+   "date_unixtime": "1792431574",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "photo": "photos/photo_71@19-10-2026.jpg",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4173,
+   "type": "message",
+   "date": "2026-10-19T23:09:37",
+   "date_unixtime": "1792431577",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Can we get more lights near the park? It's very dark",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we get more lights near the park? It's very dark"
+    }
+   ]
+  },
+  {
+   "id": 4174,
+   "type": "message",
+   "date": "2026-10-19T23:11:27",
+   "date_unixtime": "1792431687",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4175,
+   "type": "message",
+   "date": "2026-10-19T23:14:30",
+   "date_unixtime": "1792431870",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4176,
+   "type": "message",
+   "date": "2026-10-19T23:14:52",
+   "date_unixtime": "1792431892",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4177,
+   "type": "message",
+   "date": "2026-10-19T23:15:57",
+   "date_unixtime": "1792431957",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4178,
+   "type": "message",
+   "date": "2026-10-19T23:20:07",
+   "date_unixtime": "1792432207",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4179,
+   "type": "message",
+   "date": "2026-10-19T23:23:36",
+   "date_unixtime": "1792432416",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4180,
+   "type": "message",
+   "date": "2026-10-19T23:26:28",
+   "date_unixtime": "1792432588",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4181,
+   "type": "message",
+   "date": "2026-10-19T23:30:55",
+   "date_unixtime": "1792432855",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4182,
+   "type": "message",
+   "date": "2026-10-19T23:33:12",
+   "date_unixtime": "1792432992",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome"
+    }
+   ]
+  },
+  {
+   "id": 4183,
+   "type": "message",
+   "date": "2026-10-19T23:35:48",
+   "date_unixtime": "1792433148",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Lift in B block is making noise again",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lift in B block is making noise again"
+    }
+   ]
+  },
+  {
+   "id": 4184,
+   "type": "message",
+   "date": "2026-10-19T23:39:15",
+   "date_unixtime": "1792433355",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "This is the third time this week",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This is the third time this week"
+    }
+   ]
+  },
+  {
+   "id": 4185,
+   "type": "message",
+   "date": "2026-10-19T23:39:59",
+   "date_unixtime": "1792433399",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4186,
+   "type": "message",
+   "date": "2026-10-19T23:40:40",
+   "date_unixtime": "1792433440",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4187,
+   "type": "message",
+   "date": "2026-10-19T23:43:59",
+   "date_unixtime": "1792433639",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4188,
+   "type": "message",
+   "date": "2026-10-19T23:47:00",
+   "date_unixtime": "1792433820",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4189,
+   "type": "message",
+   "date": "2026-10-19T23:47:21",
+   "date_unixtime": "1792433841",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4190,
+   "type": "message",
+   "date": "2026-10-19T23:48:14",
+   "date_unixtime": "1792433894",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4191,
+   "type": "message",
+   "date": "2026-10-19T23:49:32",
+   "date_unixtime": "1792433972",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4192,
+   "type": "message",
+   "date": "2026-10-20T00:04:31",
+   "date_unixtime": "1792434871",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4193,
+   "type": "message",
+   "date": "2026-10-20T00:08:20",
+   "date_unixtime": "1792435100",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Lost & found: blue umbrella near the gym",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lost & found: blue umbrella near the gym"
+    }
+   ]
+  },
+  {
+   "id": 4194,
+   "type": "message",
+   "date": "2026-10-20T00:11:11",
+   "date_unixtime": "1792435271",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "I will raise this in the AGM",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I will raise this in the AGM"
+    }
+   ]
+  },
+  {
+   "id": 4195,
+   "type": "message",
+   "date": "2026-10-20T00:11:50",
+   "date_unixtime": "1792435310",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4196,
+   "type": "message",
+   "date": "2026-10-20T00:18:32",
+   "date_unixtime": "1792435712",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4197,
+   "type": "message",
+   "date": "2026-10-20T00:23:31",
+   "date_unixtime": "1792436011",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4198,
+   "type": "message",
+   "date": "2026-10-20T00:25:32",
+   "date_unixtime": "1792436132",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4199,
+   "type": "message",
+   "date": "2026-10-20T00:29:09",
+   "date_unixtime": "1792436349",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4200,
+   "type": "message",
+   "date": "2026-10-20T00:30:40",
+   "date_unixtime": "1792436440",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Garbage collection at 7am tomorrow",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Garbage collection at 7am tomorrow"
+    }
+   ]
+  },
+  {
+   "id": 4201,
+   "type": "message",
+   "date": "2026-10-20T00:42:15",
+   "date_unixtime": "1792437135",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Lift in B block is making noise again",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lift in B block is making noise again"
+    }
+   ]
+  },
+  {
+   "id": 4202,
+   "type": "message",
+   "date": "2026-10-20T00:42:32",
+   "date_unixtime": "1792437152",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4203,
+   "type": "message",
+   "date": "2026-10-20T00:46:12",
+   "date_unixtime": "1792437372",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "photo": "photos/photo_102@19-10-2026.jpg",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4204,
+   "type": "message",
+   "date": "2026-10-20T00:51:02",
+   "date_unixtime": "1792437662",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4205,
+   "type": "message",
+   "date": "2026-10-20T00:54:53",
+   "date_unixtime": "1792437893",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Lost & found: blue umbrella near the gym",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lost & found: blue umbrella near the gym"
+    }
+   ]
+  },
+  {
+   "id": 4206,
+   "type": "message",
+   "date": "2026-10-20T00:55:25",
+   "date_unixtime": "1792437925",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "This is the third time this week",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This is the third time this week"
+    }
+   ]
+  },
+  {
+   "id": 4207,
+   "type": "message",
+   "date": "2026-10-20T00:55:57",
+   "date_unixtime": "1792437957",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "+1",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "+1"
+    }
+   ]
+  },
+  {
+   "id": 4208,
+   "type": "message",
+   "date": "2026-10-20T00:57:28",
+   "date_unixtime": "1792438048",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4209,
+   "type": "message",
+   "date": "2026-10-20T00:57:46",
+   "date_unixtime": "1792438066",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Please follow the rules, we are educated people",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please follow the rules, we are educated people"
+    }
+   ]
+  },
+  {
+   "id": 4210,
+   "type": "message",
+   "date": "2026-10-20T01:02:30",
+   "date_unixtime": "1792438350",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4211,
+   "type": "message",
+   "date": "2026-10-20T01:04:21",
+   "date_unixtime": "1792438461",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4212,
+   "type": "message",
+   "date": "2026-10-20T01:06:46",
+   "date_unixtime": "1792438606",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4213,
+   "type": "message",
+   "date": "2026-10-20T01:08:49",
+   "date_unixtime": "1792438729",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4214,
+   "type": "message",
+   "date": "2026-10-20T01:08:55",
+   "date_unixtime": "1792438735",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Lift in B block is making noise again",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lift in B block is making noise again"
+    }
+   ]
+  },
+  {
+   "id": 4215,
+   "type": "message",
+   "date": "2026-10-20T01:09:04",
+   "date_unixtime": "1792438744",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4216,
+   "type": "message",
+   "date": "2026-10-20T01:15:31",
+   "date_unixtime": "1792439131",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4217,
+   "type": "message",
+   "date": "2026-10-20T01:20:41",
+   "date_unixtime": "1792439441",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Lost & found: blue umbrella near the gym",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lost & found: blue umbrella near the gym"
+    }
+   ]
+  },
+  {
+   "id": 4218,
+   "type": "message",
+   "date": "2026-10-20T01:22:42",
+   "date_unixtime": "1792439562",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4219,
+   "type": "message",
+   "date": "2026-10-20T01:23:57",
+   "date_unixtime": "1792439637",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4220,
+   "type": "message",
+   "date": "2026-10-20T01:25:04",
+   "date_unixtime": "1792439704",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4221,
+   "type": "message",
+   "date": "2026-10-20T01:27:16",
+   "date_unixtime": "1792439836",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4222,
+   "type": "message",
+   "date": "2026-10-20T01:31:42",
+   "date_unixtime": "1792440102",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4223,
+   "type": "message",
+   "date": "2026-10-20T01:31:50",
+   "date_unixtime": "1792440110",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Can we please keep this group for important things only",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we please keep this group for important things only"
+    }
+   ]
+  },
+  {
+   "id": 4224,
+   "type": "message",
+   "date": "2026-10-20T01:39:14",
+   "date_unixtime": "1792440554",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Garbage collection at 7am tomorrow",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Garbage collection at 7am tomorrow"
+    }
+   ]
+  },
+  {
+   "id": 4225,
+   "type": "message",
+   "date": "2026-10-20T01:40:42",
+   "date_unixtime": "1792440642",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4226,
+   "type": "message",
+   "date": "2026-10-20T01:41:35",
+   "date_unixtime": "1792440695",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4227,
+   "type": "message",
+   "date": "2026-10-20T01:45:31",
+   "date_unixtime": "1792440931",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4228,
+   "type": "message",
+   "date": "2026-10-20T01:46:46",
+   "date_unixtime": "1792441006",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4229,
+   "type": "message",
+   "date": "2026-10-20T01:48:18",
+   "date_unixtime": "1792441098",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Can we get more lights near the park? It's very dark",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we get more lights near the park? It's very dark"
+    }
+   ]
+  },
+  {
+   "id": 4230,
+   "type": "message",
+   "date": "2026-10-20T01:49:42",
+   "date_unixtime": "1792441182",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4231,
+   "type": "message",
+   "date": "2026-10-20T01:50:45",
+   "date_unixtime": "1792441245",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Diwali committee meeting is Sunday 6pm in clubhouse, volunteers welcome"
+    }
+   ]
+  },
+  {
+   "id": 4232,
+   "type": "message",
+   "date": "2026-10-20T01:58:13",
+   "date_unixtime": "1792441693",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Can we get more lights near the park? It's very dark",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we get more lights near the park? It's very dark"
+    }
+   ]
+  },
+  {
+   "id": 4233,
+   "type": "message",
+   "date": "2026-10-20T01:59:37",
+   "date_unixtime": "1792441777",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4234,
+   "type": "message",
+   "date": "2026-10-20T02:51:28",
+   "date_unixtime": "1792444888",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "photo": "photos/photo_133@19-10-2026.jpg",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4235,
+   "type": "message",
+   "date": "2026-10-20T05:36:36",
+   "date_unixtime": "1792454796",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Can we get more lights near the park? It's very dark",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we get more lights near the park? It's very dark"
+    }
+   ]
+  },
+  {
+   "id": 4236,
+   "type": "message",
+   "date": "2026-10-20T05:47:52",
+   "date_unixtime": "1792455472",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4237,
+   "type": "message",
+   "date": "2026-10-20T06:03:49",
+   "date_unixtime": "1792456429",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Garbage collection at 7am tomorrow",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Garbage collection at 7am tomorrow"
+    }
+   ]
+  },
+  {
+   "id": 4238,
+   "type": "message",
+   "date": "2026-10-20T06:04:12",
+   "date_unixtime": "1792456452",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Swiggy delivery for B-402 at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Swiggy delivery for B-402 at gate"
+    }
+   ]
+  },
+  {
+   "id": 4239,
+   "type": "message",
+   "date": "2026-10-20T06:06:51",
+   "date_unixtime": "1792456611",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4240,
+   "type": "message",
+   "date": "2026-10-20T06:07:34",
+   "date_unixtime": "1792456654",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Can we please keep this group for important things only",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we please keep this group for important things only"
+    }
+   ]
+  },
+  {
+   "id": 4241,
+   "type": "message",
+   "date": "2026-10-20T06:09:41",
+   "date_unixtime": "1792456781",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "I will raise this in the AGM",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I will raise this in the AGM"
+    }
+   ]
+  },
+  {
+   "id": 4242,
+   "type": "message",
+   "date": "2026-10-20T06:11:52",
+   "date_unixtime": "1792456912",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Agreed 👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Agreed 👍"
+    }
+   ]
+  },
+  {
+   "id": 4243,
+   "type": "message",
+   "date": "2026-10-20T06:15:39",
+   "date_unixtime": "1792457139",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4244,
+   "type": "message",
+   "date": "2026-10-20T06:17:06",
+   "date_unixtime": "1792457226",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4245,
+   "type": "message",
+   "date": "2026-10-20T06:17:26",
+   "date_unixtime": "1792457246",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Good morning neighbours ☀️",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Good morning neighbours ☀️"
+    }
+   ]
+  },
+  {
+   "id": 4246,
+   "type": "message",
+   "date": "2026-10-20T06:18:12",
+   "date_unixtime": "1792457292",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Thanks all",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Thanks all"
+    }
+   ]
+  },
+  {
+   "id": 4247,
+   "type": "message",
+   "date": "2026-10-20T06:18:30",
+   "date_unixtime": "1792457310",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Please follow the rules, we are educated people",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please follow the rules, we are educated people"
+    }
+   ]
+  },
+  {
+   "id": 4248,
+   "type": "message",
+   "date": "2026-10-20T06:20:04",
+   "date_unixtime": "1792457404",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "I will raise this in the AGM",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "I will raise this in the AGM"
+    }
+   ]
+  },
+  {
+   "id": 4249,
+   "type": "message",
+   "date": "2026-10-20T06:25:56",
+   "date_unixtime": "1792457756",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Lift in B block is making noise again",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lift in B block is making noise again"
+    }
+   ]
+  },
+  {
+   "id": 4250,
+   "type": "message",
+   "date": "2026-10-20T06:29:02",
+   "date_unixtime": "1792457942",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Please follow the rules, we are educated people",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Please follow the rules, we are educated people"
+    }
+   ]
+  },
+  {
+   "id": 4251,
+   "type": "message",
+   "date": "2026-10-20T06:29:51",
+   "date_unixtime": "1792457991",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4252,
+   "type": "message",
+   "date": "2026-10-20T06:38:52",
+   "date_unixtime": "1792458532",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4253,
+   "type": "message",
+   "date": "2026-10-20T06:58:26",
+   "date_unixtime": "1792459706",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4254,
+   "type": "message",
+   "date": "2026-10-20T07:00:01",
+   "date_unixtime": "1792459801",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "This is the third time this week",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This is the third time this week"
+    }
+   ]
+  },
+  {
+   "id": 4255,
+   "type": "message",
+   "date": "2026-10-20T07:03:27",
+   "date_unixtime": "1792460007",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "text": "Can we please keep this group for important things only",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Can we please keep this group for important things only"
+    }
+   ]
+  },
+  {
+   "id": 4256,
+   "type": "message",
+   "date": "2026-10-20T07:04:07",
+   "date_unixtime": "1792460047",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Amazon delivery for C-303 kept at gate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Amazon delivery for C-303 kept at gate"
+    }
+   ]
+  },
+  {
+   "id": 4257,
+   "type": "message",
+   "date": "2026-10-20T07:04:29",
+   "date_unixtime": "1792460069",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Whose car is KA-03-MX-4411? It is parked in the visitor slot AGAIN"
+    }
+   ]
+  },
+  {
+   "id": 4258,
+   "type": "message",
+   "date": "2026-10-20T07:04:53",
+   "date_unixtime": "1792460093",
+   "from": "Mr. Iyer (B-402)",
+   "from_id": "user1592",
+   "text": "This is the third time this week",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This is the third time this week"
+    }
+   ]
+  },
+  {
+   "id": 4259,
+   "type": "message",
+   "date": "2026-10-20T07:10:30",
+   "date_unixtime": "1792460430",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Visitor parking full",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Visitor parking full"
+    }
+   ]
+  },
+  {
+   "id": 4260,
+   "type": "message",
+   "date": "2026-10-20T07:13:16",
+   "date_unixtime": "1792460596",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "🙏",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏"
+    }
+   ]
+  },
+  {
+   "id": 4261,
+   "type": "message",
+   "date": "2026-10-20T07:17:14",
+   "date_unixtime": "1792460834",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Anyone has a drill machine to lend?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Anyone has a drill machine to lend?"
+    }
+   ]
+  },
+  {
+   "id": 4262,
+   "type": "message",
+   "date": "2026-10-20T07:20:48",
+   "date_unixtime": "1792461048",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4263,
+   "type": "message",
+   "date": "2026-10-20T07:25:22",
+   "date_unixtime": "1792461322",
+   "from": "Deepa (C-303)",
+   "from_id": "user1481",
+   "text": "Lost & found: blue umbrella near the gym",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lost & found: blue umbrella near the gym"
+    }
+   ]
+  },
+  {
+   "id": 4264,
+   "type": "message",
+   "date": "2026-10-20T07:33:42",
+   "date_unixtime": "1792461822",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍"
+    }
+   ]
+  },
+  {
+   "id": 4265,
+   "type": "message",
+   "date": "2026-10-20T07:38:50",
+   "date_unixtime": "1792462130",
+   "from": "Kavita Rao",
+   "from_id": "user1370",
+   "photo": "photos/photo_164@19-10-2026.jpg",
+   "width": 1280,
+   "height": 960,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4266,
+   "type": "message",
+   "date": "2026-10-20T07:40:20",
+   "date_unixtime": "1792462220",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "text": "Sorry, that was my guest's car, moving it",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sorry, that was my guest's car, moving it"
+    }
+   ]
+  },
+  {
+   "id": 4267,
+   "type": "message",
+   "date": "2026-10-20T07:40:41",
+   "date_unixtime": "1792462241",
+   "from": "Farhan (A-101)",
+   "from_id": "user1518",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4268,
+   "type": "message",
+   "date": "2026-10-20T07:41:51",
+   "date_unixtime": "1792462311",
+   "from": "Security Desk",
+   "from_id": "user1481",
+   "text": "Garbage collection at 7am tomorrow",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Garbage collection at 7am tomorrow"
+    }
+   ]
+  }
+ ]
+}
